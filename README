@@ -1,0 +1,61 @@
+
+# SpendWise - Personal Expense Tracker
+
+## Project Description
+
+SpendWise is a responsive personal finance management application that helps users record income, track expenses, and monitor their overall financial balance.
+
+Users can add and delete transactions, organize spending by category, filter transaction history, and view a financial overview through a chart.
+
+Transaction data is stored locally in the browser using Local Storage.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Chart.js
+- Git
+- GitHub
+- Netlify
+
+## GitHub Repository Information
+
+Repository Name: SpendWise
+
+Repository URL: [Insert your GitHub repository URL]
+
+## Live Netlify Website
+
+[Insert your actual Netlify URL]
+
+## Deployment Process Summary
+
+1. Organized the project files.
+2. Created a public GitHub repository.
+3. Uploaded the project files to GitHub.
+4. Connected the repository to Netlify.
+5. Configured the deployment settings.
+6. Published the website.
+7. Customized the Netlify site name.
+8. Tested automatic deployment by pushing an update to GitHub.
+
+## Challenges Encountered During Deployment
+
+- Configuring the Netlify deployment settings.
+- Connecting the GitHub repository.
+- Ensuring that the CSS, JavaScript, and external chart library loaded correctly.
+- Testing the application across different screen sizes.
+
+## Lessons Learned
+
+- How to create and manage GitHub repositories.
+- How to deploy websites using Netlify.
+- How continuous deployment works.
+- How to use browser Local Storage.
+- How to create interactive applications with JavaScript.
+- The importance of testing a live website.
+
+## Author
+
+[Your Name]
